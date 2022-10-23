@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Luka,
 
-- 📚 Atualmente estudando Python e PHP
+- 📚 Atualmente estudando PHP
 - 🖥️ Em breve irei cursar Ciência da Computação
 
 <div>
