@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Luka,
 
-- 📚 Atualmente estudando Python
-- 🖥️ Em breve irei cursar Ciência da Computação
+- 📚 Atualmente estudando Node JS.
+- 🖥️ Cursando Ciência da Computação.
 
 <div>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl0&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117">
