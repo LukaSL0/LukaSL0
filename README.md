@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Luka,
 
 - 📚 Estudando React JS.
-- 🖥️ Cursando Ciência da Computação
+- 🖥️ Cursando Sistemas de Informação.
 
 <div>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl0&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117">
