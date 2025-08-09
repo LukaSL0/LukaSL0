@@ -3,9 +3,7 @@
 - 📚 Estudando React JS.
 - 🖥️ Cursando Sistemas de Informação.
 
-<div>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl0&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl0&layout=compact)](https://github.com/lukasl0/github-readme-stats&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
