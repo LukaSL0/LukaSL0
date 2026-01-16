@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Luka,
 
-- 📚 Estudando React JS.
+- 📚 Estudando Java.
 - 🖥️ Cursando Sistemas de Informação.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasl0&layout=compact&theme=dracula)](https://github.com/lukasl0/github-readme-stats&layout=compact&theme=dracula)
