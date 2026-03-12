@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Backend;Estudante+de+Sistemas+de+Informação;Apaixonado+por+Java+%26+Spring" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Backend;Estudante+de+Sistemas+de+Informação;Apaixonado+por+back-end alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre mim
