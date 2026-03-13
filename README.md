@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Backend;Estudante+de+Sistemas+de+Informação;Apaixonado+por+backend alt="Typing SVG" />
-</div>
-
 ## 🚀 Sobre mim
 
 Desenvolvedor Backend em formação, focado em construir soluções robustas e escaláveis. Atualmente cursando **Sistemas de Informação** e aprimorando minhas habilidades em **Java** e ecossistema com Spring Boot.
